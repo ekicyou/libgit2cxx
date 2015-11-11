@@ -1,0 +1,8 @@
+[submodule "modules/libgit2"]
+	path = modules/libgit2
+	url = https://github.com/libgit2/libgit2
+	branch = master
+[submodule "modules/libgit2sharp"]
+	path = modules/libgit2sharp
+	url = https://github.com/libgit2/libgit2sharp
+	branch = vNext

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="$(MSBuildThisFileDirectory)regex.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)common.h">
+      <Filter>include</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="include">
+      <UniqueIdentifier>{0188b047-f90e-4f0d-8780-a17f80affa5b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

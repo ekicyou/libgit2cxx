@@ -14,7 +14,7 @@
     <ProjectCapability Include="SourceItemsFromImports" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="$(MSBuildThisFileDirectory)common.h" />
-    <ClInclude Include="$(MSBuildThisFileDirectory)regex.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)include\common.h" />
+    <ClInclude Include="$(MSBuildThisFileDirectory)include\regex.h" />
   </ItemGroup>
 </Project>
